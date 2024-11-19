@@ -1,0 +1,5 @@
+# idea files
+.idea/
+*.iml
+# python files
+venv/
